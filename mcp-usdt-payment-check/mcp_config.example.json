@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "usdt-payment-check": {
+      "command": "python3",
+      "args": ["./mcp-usdt-payment-check/server.py"]
+    }
+  }
+}
